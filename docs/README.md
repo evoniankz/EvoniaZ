@@ -1,4 +1,4 @@
-<p align="center"><img src="../src/assets/images/Calque_3.png" alt="icon-launcher"></p>
+<p align="center"><img src="../src/assets/images/Calque_3.ico" alt="icon-launcher"></p>
 
 <h1 align="center">CraftLaunch</h1>
 
