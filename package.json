@@ -1,6 +1,6 @@
 {
-    "name": "EvoniaZ_launcher",
-    "preductname": "EvoniaZ Launcher",
+    "name": "EvoniaZ",
+    "productname": "EvoniaZ Launcher",
     "version": "1.0.1",
     "description": "Launcher dédiée a EvoniaZ",
     "main": "src/app.js",
@@ -22,6 +22,7 @@
         "ignore": "**/test"
     },
     "dependencies": {
+        "@types/three": "^0.167.2",
         "electron-updater": "^6.1.8",
         "minecraft-java-core": "^3.10.4",
         "node-bdd": "^2.0.4",
