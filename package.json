@@ -1,7 +1,7 @@
 {
     "name": "EvoniaZ",
     "productname": "EvoniaZ Launcher",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher dédiée a EvoniaZ",
     "main": "src/app.js",
     "author": {
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://raw.githubusercontent.com/evoniankz/EvoniaZ/refs/heads/master/src/assets/images/Calque_3.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
